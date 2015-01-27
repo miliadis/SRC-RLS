@@ -12,7 +12,7 @@ clc;
 close all;
 
 %% PARAMETERS
-method = 'cr-rls'; % 'cr-rls', 'esrc', 'src+rls'
+method = 'src+rls'; % 'cr-rls', 'esrc', 'src+rls'
 dataset = 'yale'; % 'yale' or 'ar'
 
 %% START EXPERIMENTAL ROUNDS

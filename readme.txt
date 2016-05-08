@@ -8,7 +8,7 @@ published in EUSIPCO 2014
 Usage:
 
 1) add to the path the entire "SRC-RLS" folder
-2) run "runExperiments.mat"
+2) run "runExperiments.m"
 
 ---------------------------------------------------------------------------
 More info:
